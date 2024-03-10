@@ -9,4 +9,4 @@ With this project i learnt how easy it would be to boost up your training files 
 Golang installed 
 
 currently it takes the zwift.gpx file, modifies it and then makes new version of it. 
-# powerChanger
+
